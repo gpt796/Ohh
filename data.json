@@ -1,0 +1,9 @@
+{
+	"title": "# Sounds table #",
+	"sounds" : [
+		{ 
+			"text" : "Alvaro" ,
+			"soundURL" : "sounds/ohhh-alvaro.mp3"
+		}
+	]
+}
