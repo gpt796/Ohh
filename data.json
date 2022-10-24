@@ -2,8 +2,8 @@
 	"title": "# Sounds table #",
 	"sounds" : [
 		{ 
-			"text" : "Alvaro" ,
-			"soundURL" : "sounds/ohhh-alvaro.mp3"
+			"text" : "Claudia" ,
+			"soundURL" : "sounds/audio.mp3"
 		}
 	]
 }
